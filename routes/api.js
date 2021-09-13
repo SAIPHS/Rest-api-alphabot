@@ -139,7 +139,7 @@ loghandler = {
     }
 }
 
-const listkey = ["Alphabot", "zeeoneofc"];
+const listkey = ["devfiqq", "lemonbotz"];
 //router.use(favicon(__path + "/views/logo.ico"));
 
 var len = 15
